@@ -1,3 +1,4 @@
 # learn1
 React Native 
-1: npm install -g create-react-native-app
+Reference
+tutorialspoint.com/react_native/react_native_environment_setup.htm
